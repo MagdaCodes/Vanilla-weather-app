@@ -62,4 +62,8 @@ li:first-letter {
 
 .weather-temperature .active:hover {
   text-decoration: none;
+  cursor: default;
+}
+.float-left {
+  padding-bottom: 10px;
 }
